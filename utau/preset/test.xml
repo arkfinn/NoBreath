@@ -1,0 +1,15 @@
+<NoBreath>
+  <element1>
+    <Lyric>息1</Lyric>
+    <Length>240</Length>
+  </element1>
+  <useElm2Length>0</useElm2Length>
+  <element2>
+    <Lyric>息1</Lyric>
+    <Length>240</Length>
+  </element2>
+  <condLength>240</condLength>
+  <restLength>240</restLength>
+  <ignoreLyrics>息1</ignoreLyrics>
+  <ignoreLength>1920</ignoreLength>
+</NoBreath>
